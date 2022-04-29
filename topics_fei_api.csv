@@ -1,0 +1,72 @@
+topic;supervisor 
+Akcelerácia biometrického systému pomocou špecializovanıch CPU inštrukènıch sád;P. Marák
+Algoritmické obchodovanie s vyuitím umelej inteligencie;M. Drozda
+Analıza pohybu osôb / objektov;M. Èavojskı
+Analıza spravania aplikácie s vyuitím ontológie;Š. Balogh
+API pre simulaèné prostredia portálu online experimentov;K. áková
+Automatické rozpoznávanie reèi s vyuitím NN;J. Kaèur
+Automatizácia a vizualizácia meraní parametrov prvkov a obvodov s vysokofrekvenènım vektorovım analyzátorom VNA;V. Štofanik
+Automatizované testovanie zadaní;Š. Balogh
+Automatizované vyh¾adávanie historickıch šifrovanıch dokumentov;P. Zajac
+Black-box testovací systém pre programátorské zadania písané v jazyku C/C++;P. Marák
+Databázovı registraènı systém;R. Balogh
+Demonštrácia kryptoanalızy transpoziènıch šifier;E. Antal
+Detekcia autorov na základe textu;J. Kaèur
+Detekcia oblastí šifrovaného textu v historickıch rukopisoch;P. Marák
+Detekcia útokov s vyuitím stavovıch jazykov;Š. Balogh
+Detekcia utokov v sieovej komunikácii s vyuitím stavového jazyka;Š. Balogh
+Detekcia vybranıch techník pouívanıch prí útokoch;Š. Balogh
+Detekcia vybranıch udalostí v audio signáloch s vyuitím NN;J. Kaèur
+Evoluènı MRHS solver;P. Zajac
+Funkcionálny jazyk Roc;M. Drozda
+Generovanie sieovıch štruktúr pomocou grafletov;M. Nehéz
+Gentzennov kalkulus a automatické dokazovanie formúl predikátovej logiky;J. Kollár
+Grafickı editor pre vizuálne programovanie v jazyku Petriflow;G. Juhás
+Identifikácia hovoriaceho;J. Kaèur
+Implementácia extrakcie dát (OCR) s vyuitím najnovšej cloudovej technológie SAP BTP a prepojením na SAP Workflow na backend ERP systéme SAP S4 HANA;M. Drozda
+Implementácie modernej SAP Firoi aplikácie v oblasti SAP Logistika, prípadne SAP Financie s vyuitím RESTfull architektúry;M. Drozda
+Informaènı displej pre dezinfekènı stojan;R. Balogh
+Inteligentná analıza bezpeènostnıch udalostí;Š. Balogh
+Kolaboratívne online experimentovanie s 3D modelmi mechatronickıch systémov;K. áková
+Mikroservisy - technológie a vıukové materiály;I. Kossaczkı
+Modelovanie pohybu osôb / objektov;M. Èavojskı
+MRHS solver na báze inteligentného preh¾adávania;P. Zajac
+Neurónová sie pre kalibráciu elektrickıch modelov polovodièovıch štruktúr;A. Chvála
+Obrazové predspracovanie nomenklátorovıch šifrovacích k¾úèov;P. Marák
+Odporúèací systém vhodnıch vıziev pre záujemcov o granty a dotácie;M. Drozda
+Online experimentovanie s mechatronickım systémom;K. áková
+Online vizualizácia LR(k) analyzátora;V. Hromada
+Osobné aplikácie cez konverzaèné nástroje (chatbot apps);M. Šrámka
+Parsovanie textov pomocou metód strojového uèenia;Z. Bukovèiková
+Podpora experimentovania v online prostredí;K. áková
+Porovnávanie odtlaèkov prstov na báze kapsulovıch neurónovıch sietí s vyuitím level-1 a level-2 deskriptorov;P. Marák
+Predikcia produkcie energie z obnovite¾nıch zdrojov;J. Kaèur
+Predikcia utokov s vyuzitim fuzzy ontologie;Š. Balogh
+Preklad BPMN modelov do jazyka Petriflow;G. Juhás
+Regresná analıza bez predpokladu normality;T. Bacigál
+Rekonštrukcia šifrovacieho stroja Štolba;E. Antal
+Rozpoznávanie a transkripcia obsahu nomenklátorovıch šifrovacích k¾úèov;P. Marák
+Rozpoznávanie scény na historickıch fotografiách;Z. Bukovèiková
+Sémantická segmentácia nomenklátorovıch šifrovacích k¾úèov;P. Marák
+Serverová aplikácia pre podporu grafického návrhu riadiacich algoritmov;K. áková
+Simulácia a vizualizácia odrazu lopty v poèítaèovej hre;M. Konôpka
+Statickı a dynamickı analyzátor kódu pre systém automatizovaného testovania softvéru;P. Marák
+Systém pre správu verzií procesnıch modelov;G. Juhás
+System pre zdie¾anie poznatkov v bezpeènostnej domene vyuitím ontológie;Š. Balogh
+Šifrovanie logografickıch systémov;E. Antal
+Tvorba viacvláknovıch aplikácií pre procesory AVR;O. Gallo
+Vlastná téma - Mobile Computing;M. Èavojskı
+Vlastná téma - Mobile Computing;M. Èavojskı
+Vytváranie vıkonnıch a škálovate¾nıch webovıch aplikácií;O. Gallo
+Vytvorenie anotovanıch vzoriek šifrovanıch symbolov z historickıch dokumentov;E. Antal
+Vyuzitie frameworkov apache kafka a spark  pre spracovanie udajov a detekciu bezpecnostnych incidentov;Š. Balogh
+Vyuzitie nastrojov pre detekciu zranite¾nosti v procese vıvoja software;Š. Balogh
+Vyuitie biometrie v kriminalistike;O. Gallo
+Vyuitie inverznej kinematiky pri ovládaní celého tela vo VR;E. Antal
+Vyuitie pravidlovıch systémov pri tvorbe a validacii rozvrhu.;I. Kossaczkı
+Vıvoj poèítaèovej hry s prvkami umelej inteligencie na báze lightweight neurónovıch sietí;P. Marák
+Web aplikácia pre systém automatizovaného testovania programátorskıch zadaní;P. Marák
+Webová aplikácia pre skautskı programovı postup;M. Behúl
+White-box testovací systém pre programátorské zadania písané v jazyku C/C++;P. Marák
+Zabezpeèenie kvality údajov poèas procesu ETL na verejnıch datasetoch;M. Drozda
+Zapamätate¾nost hesiel;P. Zajac
